@@ -23,7 +23,7 @@ The latest release and language packs are available on the [download page](https
 
 The TortoiseGit team also provides [preview releases](https://download.tortoisegit.org/tgit/previews/) on an irregular basis. These versions are used by the TortoiseGit developers and are built from the latest code that represents the cutting edge of the TortoiseGit development.
 
-What to do if things go wrong or a crash happened
+What to do if things go wrong or a crash happened???
 --------------------------------------------------
 
 Before reporting an issue, please search whether a similar issue already exists and check that your problem isn't fixed in our latest [preview release](https://download.tortoisegit.org/tgit/previews/).
